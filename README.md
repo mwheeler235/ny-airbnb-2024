@@ -3,3 +3,7 @@ Leveraging Kaggle Airbnb data (https://www.kaggle.com/datasets/vrindakallu/new-y
 After retreiving optimal hyperparameters via a Grid Search, the model yields fairly strong results.
 
 <img src="https://github.com/mwheeler235/ny-airbnb-2024/blob/main/img/confusion matrix.png" width="600" height="450">
+
+The top features associated with predicting a high rated host:
+
+<img src="https://github.com/mwheeler235/ny-airbnb-2024/blob/main/img/top features.png" width="600" height="450">
