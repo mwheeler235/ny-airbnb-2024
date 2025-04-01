@@ -1,0 +1,7 @@
+.vscode/*
+.DS_Store
+*.xlsx
+*.ipynb
+.ipynb_checkpoints
+*.csv
+airbnb/*
